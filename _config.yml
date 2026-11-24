@@ -3,7 +3,7 @@ title: Cuba Solidarity Committee Regina
 # subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description: Vive Cuba!
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/cuba" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 # street_address: 1234 Somewhere Road
